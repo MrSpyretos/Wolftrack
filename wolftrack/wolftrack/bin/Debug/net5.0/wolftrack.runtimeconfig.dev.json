@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Spyla\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Spyla\\.nuget\\packages"
+    ]
+  }
+}
